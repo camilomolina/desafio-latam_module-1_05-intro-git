@@ -1,6 +1,6 @@
 # Intro GIT
 
-Intro GIT repository for Botcam "DesafioLatam".
+Intro GIT repository for bootcamp "DesafioLatam".
 
 ## Getting the latest release
 
